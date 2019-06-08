@@ -20,3 +20,7 @@ light_ws2812\Objects\*
 *.exe
 *.out
 *.app
+
+.DS_Store
+.pioenvs/
+.piolibdeps/
